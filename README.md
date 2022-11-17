@@ -1,3 +1,7 @@
+# Tableau
+[Link to Tableau](https://public.tableau.com/views/Tech_Challenge_DA/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+
 # Tech challenge
 
 <p align="center"> 
